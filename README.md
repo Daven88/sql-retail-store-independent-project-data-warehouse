@@ -22,6 +22,8 @@ The project applies real-world data engineering and data modelling techniques to
 2. ETL Pipelines: Building ETL workflows to extract, transform and load data from source CSV files into the data warehouse.
 3. Data Modeling: Developing fact and dimensional tables optimised for analytical querying and reporting.
 4. Analytics & Reporting: Creating SQL based analytical queries to generate business insights such as sales performance, customer behaviour and product trends.
+5. Sentiment Analysis: Applied VADER (NLTK) sentiment analysis to customer reviews and product descriptions to extract insights on customer satisfaction and product perception.
+6. DashboardingL Created a Power BI dashboard to visualise outputs from the analysis section, including sentiment trends, sales insights and product performance metrics. 
 
 ## Purpose of This Project
 
@@ -35,10 +37,15 @@ This repository showcases experience in:
 4. ETL Pipeline Development
 5. Dimensional Data Modeling
 6. Analytical Querying & Reporting
+7. Sentiment analysis using VADER/NLTK
+8. Analytical Querying & Reporting
+9. Dashboarding in Power BI
 
 ## Tools & Technologies
 
-1. SQL (Data definition, Transformation and analytics
-2. Git & Github
-3. Draw.io (Data Modeling)
-4. CSV based source systems
+1. SQL (Data definition, Transformation and analytics)
+2. Python (VADER/NLTK for sentiment analysis)
+3. Power BI (Dashboarding & Visualisation)
+4. Git & Github (Version control)
+5. Draw.io (Data Modeling)
+6. CSV based source systems
